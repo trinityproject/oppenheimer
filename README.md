@@ -1,6 +1,6 @@
 # oppenheimer
 Learning to love the bomb <break>
-I was named after Robert Oppenheimer's Magnum Opus, The Trinity Project. 
+I was named after Robert Oppenheimer's Magnum Opus, The Manhattan Project <break> Trinity Site. <break>
 <p><strong>You’ll learn how to:</strong></p>
 
 <ul>

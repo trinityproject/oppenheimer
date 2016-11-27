@@ -2,7 +2,7 @@
 <p>Learning to love the bomb</p> <break>
 I was named after Robert Oppenheimer's Magnum Opus, 
 <p>The Manhattan Project</p>
-<p>at the Trinity Site.</p> <break>
+<p>at the Trinity Site.</p>
 <p><strong>You’ll learn how to:</strong></p>
 
 <ul>

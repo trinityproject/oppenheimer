@@ -1,5 +1,5 @@
 # oppenheimer
-<p>Learning to love the bomb</p> <break>
+<h1>Learning to love the bomb</h1> <break>
 I was named after Robert Oppenheimer's Magnum Opus, 
 <p>The Manhattan Project at the Trinity Site.</p>
 <p><strong>You’ll learn how to:</strong></p>
